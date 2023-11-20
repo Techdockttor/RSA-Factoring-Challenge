@@ -5,7 +5,6 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 # library to get arguments
 import sys
 
-
 # fn unpack number factorial
 def fc():
     """
